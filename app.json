@@ -1,6 +1,6 @@
 {
-    "name": "reimagined-waffle",
-    "description": "For 4PDA.",
+    "name": "waffle",
+    "description": "For ME",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
